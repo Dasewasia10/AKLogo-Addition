@@ -1,159 +1,59 @@
 {
-  "faction": [
-    {
-      "aegir": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_egir.png?raw=true"
-    },
-    {
-      "abyssal_hunters": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_abyssal.png?raw=true"
-    },
-    {
-      "babel": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_babel.png?raw=true"
-    },
-    {
-      "bolivar": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_bolivar.png?raw=true"
-    },
-    {
-      "columbia": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_columbia.png?raw=true"
-    },
-    {
-      "blacksteel": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_blacksteel.png?raw=true"
-    },
-    {
-      "rhine_lab": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_rhine.png?raw=true"
-    },
-    {
-      "higashi": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_higashi.png?raw=true"
-    },
-    {
-      "iberia": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_iberia.png?raw=true"
-    },
-    {
-      "kazimierz": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_kazimierz.png?raw=true"
-    },
-    {
-      "pinus_sylvestris": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_pinus.png?raw=true"
-    },
-    {
-      "kjerag": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_kjerag.png?raw=true"
-    },
-    {
-      "karlan": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_karlan.png?raw=true"
-    },
-    {
-      "laterano": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_laterano.png?raw=true"
-    },
-    {
-      "leithania": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_leithanien.png?raw=true"
-    },
-    {
-      "lungmen": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_lungmen.png?raw=true"
-    },
-    {
-      "lees_detective_agency": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_lee.png?raw=true"
-    },
-    {
-      "lungmen_guard_department": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_lgd.png?raw=true"
-    },
-    {
-      "penguin_logistics": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_penguin.png?raw=true"
-    },
-    {
-      "minos": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_minos.png?raw=true"
-    },
-    {
-      "rhodes_island": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_rhodes.png?raw=true"
-    },
-    {
-      "elite_op": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_elite.png?raw=true"
-    },
-    {
-      "followers": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_followers.png?raw=true"
-    },
-    {
-      "op_a4": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_action4.png?raw=true"
-    },
-    {
-      "op_reserve_a1": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_reserve1.png?raw=true"
-    },
-    {
-      "op_reserve_a4": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_reserve4.png?raw=true"
-    },
-    {
-      "op_reserve_a6": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_reserve6.png?raw=true"
-    },
-    {
-      "sweep": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_sweep.png?raw=true"
-    },
-    {
-      "rim_billiton": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_rim.png?raw=true"
-    },
-    {
-      "sami": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_sami.png?raw=true"
-    },
-    {
-      "sargon": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_sargon.png?raw=true"
-    },
-    {
-      "siesta": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_siesta.png?raw=true"
-    },
-    {
-      "siracusa": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_siracusa.png?raw=true"
-    },
-    {
-      "chiaves_gang": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_chiave.png?raw=true"
-    },
-    {
-      "team_rainbow": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_rainbow.png?raw=true"
-    },
-    {
-      "ursus": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_ursus.png?raw=true"
-    },
-    {
-      "ursus_student_selfgoverning_group": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_student.png?raw=true"
-    },
-    {
-      "victoria": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_victoria.png?raw=true"
-    },
-    {
-      "glasgow": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_glasgow.png?raw=true"
-    },
-    { "name": "Yan?raw=true" },
-    {
-      "yan": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_yan.png?raw=true"
-    },
-    {
-      "sui": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_sui.png?raw=true"
-    },
-    {
-      "logo_none": "https://github.com/Aceship/Arknight-Images/blob/main/factions/none.pn?raw=trueg"
-    }
-  ],
-  "class": [
-    {
-      "caster": "https://github.com/Aceship/Arknight-Images/blob/main/classes/class_caster.png?raw=true"
-    },
-    {
-      "defender": "https://github.com/Aceship/Arknight-Images/blob/main/classes/class_defender.png?raw=true"
-    },
-    {
-      "guard": "https://github.com/Aceship/Arknight-Images/blob/main/classes/class_guard.png?raw=true"
-    },
-    {
-      "medic": "https://github.com/Aceship/Arknight-Images/blob/main/classes/class_medic.png?raw=true"
-    },
-    {
-      "sniper": "https://github.com/Aceship/Arknight-Images/blob/main/classes/class_sniper.png?raw=true"
-    },
-    {
-      "specialist": "https://github.com/Aceship/Arknight-Images/blob/main/classes/class_specialist.png?raw=true"
-    },
-    {
-      "supporter": "https://github.com/Aceship/Arknight-Images/blob/main/classes/class_supporter.png?raw=true"
-    },
-    {
-      "vanguard": "https://github.com/Aceship/Arknight-Images/blob/main/classes/class_vanguard.pn?raw=true"
-    }
-  ],
+  "faction": {
+    "aegir": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_egir.png?raw=true",
+    "abyssal_hunters": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_abyssal.png?raw=true",
+    "babel": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_babel.png?raw=true",
+    "bolivar": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_bolivar.png?raw=true",
+    "columbia": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_columbia.png?raw=true",
+    "blacksteel": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_blacksteel.png?raw=true",
+    "rhine_lab": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_rhine.png?raw=true",
+    "higashi": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_higashi.png?raw=true",
+    "iberia": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_iberia.png?raw=true",
+    "kazimierz": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_kazimierz.png?raw=true",
+    "pinus_sylvestris": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_pinus.png?raw=true",
+    "kjerag": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_kjerag.png?raw=true",
+    "karlan": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_karlan.png?raw=true",
+    "laterano": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_laterano.png?raw=true",
+    "leithania": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_leithanien.png?raw=true",
+    "lungmen": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_lungmen.png?raw=true",
+    "lees_detective_agency": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_lee.png?raw=true",
+    "lungmen_guard_department": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_lgd.png?raw=true",
+    "penguin_logistics": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_penguin.png?raw=true",
+    "minos": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_minos.png?raw=true",
+    "rhodes_island": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_rhodes.png?raw=true",
+    "elite_op": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_elite.png?raw=true",
+    "followers": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_followers.png?raw=true",
+    "op_a4": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_action4.png?raw=true",
+    "op_reserve_a1": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_reserve1.png?raw=true",
+    "op_reserve_a4": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_reserve4.png?raw=true",
+    "op_reserve_a6": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_reserve6.png?raw=true",
+    "sweep": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_sweep.png?raw=true",
+    "rim_billiton": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_rim.png?raw=true",
+    "sami": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_sami.png?raw=true",
+    "sargon": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_sargon.png?raw=true",
+    "siesta": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_siesta.png?raw=true",
+    "siracusa": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_siracusa.png?raw=true",
+    "chiaves_gang": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_chiave.png?raw=true",
+    "team_rainbow": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_rainbow.png?raw=true",
+    "ursus": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_ursus.png?raw=true",
+    "ursus_student_selfgoverning_group": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_student.png?raw=true",
+    "victoria": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_victoria.png?raw=true",
+    "glasgow": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_glasgow.png?raw=true",
+    "name": "Yan?raw=true",
+    "yan": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_yan.png?raw=true",
+    "sui": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_sui.png?raw=true",
+    "logo_none": "https://github.com/Aceship/Arknight-Images/blob/main/factions/none.png?raw=true"
+  },
+  "class": {
+    "caster": "https://github.com/Aceship/Arknight-Images/blob/main/classes/class_caster.png?raw=true",
+    "defender": "https://github.com/Aceship/Arknight-Images/blob/main/classes/class_defender.png?raw=true",
+    "guard": "https://github.com/Aceship/Arknight-Images/blob/main/classes/class_guard.png?raw=true",
+    "medic": "https://github.com/Aceship/Arknight-Images/blob/main/classes/class_medic.png?raw=true",
+    "sniper": "https://github.com/Aceship/Arknight-Images/blob/main/classes/class_sniper.png?raw=true",
+    "specialist": "https://github.com/Aceship/Arknight-Images/blob/main/classes/class_specialist.png?raw=true",
+    "supporter": "https://github.com/Aceship/Arknight-Images/blob/main/classes/class_supporter.png?raw=true",
+    "vanguard": "https://github.com/Aceship/Arknight-Images/blob/main/classes/class_vanguard.png?raw=true"
+  },
   "subclass": [
     {
       "_caster": "AoE / Splash Caster, Burninator / Blast Caster, Chain Caster, Charge / Mystic Caster, Drone / Mech-Accord, Modal / Phalanx Caster, ST / Core Caster",
@@ -163,7 +63,7 @@
       "caster_mystic": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_mystic_icon.png?raw=true",
       "caster_drone": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_funnel_icon.png?raw=true",
       "caster_phalanx": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_phalanx_icon.png?raw=true",
-      "caster_core": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_corecaster_icon.pn?raw=trueg"
+      "caster_core": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_corecaster_icon.png?raw=true"
     },
     {
       "_defender": "Arts Protector, Duelist, Enmity / Juggernaut, Fortress, Healing / Guardian, Normal / Protector",
@@ -172,7 +72,7 @@
       "defender_juggernaut": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_unyield_icon.png?raw=true",
       "defender_fortress": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_fortress_icon.png?raw=true",
       "defender_guardian": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_guardian_icon.png?raw=true",
-      "defender_normal": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_protector_icon.pn?raw=trueg"
+      "defender_normal": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_protector_icon.png?raw=true"
     },
     {
       "_guard": "AoE / Centurion, Arts Fighter, Brawler / Fighter, Dualstrike / Swordmaster, Duelist / Dreadnought, Enmity / Musha, Liberator Guard, Ranged / Lord, Reaper Guard, Support / Instructor",
@@ -185,14 +85,14 @@
       "guard_liberator": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_librator_icon.png?raw=true",
       "guard_lord": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_lord_icon.png?raw=true",
       "guard_reaper": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_reaper_icon.png?raw=true",
-      "guard_instructor": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_instructor_icon.pn?raw=trueg"
+      "guard_instructor": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_instructor_icon.png?raw=true"
     },
     {
       "_medic": "AoE / Multi-target Medic, ST / Medic, Wandering Medic, Wide-Range / Therapist",
       "medic_aoe": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_ringhealer_icon.png?raw=true",
       "medic_st": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_physician_icon.png?raw=true",
       "medic_wandering": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_wandermedic_icon.png?raw=true",
-      "medic_therapist": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_healer_icon.pn?raw=trueg"
+      "medic_therapist": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_healer_icon.png?raw=true"
     },
     {
       "_sniper": "Aftershock / Flinger, Anti-Air / Marksman, AoE / Artilleryman, Boomstick / Spreadshooter, Close Range / Heavyshooter, Heavyweight / Besieger, Long-Range / Deadeye",
@@ -202,7 +102,7 @@
       "sniper_boomstick": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_reaperrange_icon.png?raw=true",
       "sniper_heavyshooter": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_closerange_icon.png?raw=true",
       "sniper_heavyweight": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_siegesniper_icon.png?raw=true",
-      "sniper_deadeye": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_longrange_icon.pn?raw=trueg"
+      "sniper_deadeye": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_longrange_icon.png?raw=true"
     },
     {
       "_specialist": "Ambusher, DP-Drain / Merchant, Fast-Redeploy / Executor, Puller / Hookmaster, Pusher / Push Stroker, Sacrificial Specialist, Substitute / Dollkeeper, Trapmaster",
@@ -213,7 +113,7 @@
       "specialist_pusher": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_pusher_icon.png?raw=true",
       "specialist_sacrificial": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_geek_icon.png?raw=true",
       "specialist_substitute": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_dollkeeper_icon.png?raw=true",
-      "specialist_trapmaster": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_traper_icon.pn?raw=trueg"
+      "specialist_trapmaster": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_traper_icon.png?raw=true"
     },
     {
       "_supporter": "Artificer, Aura / Bard, Buffer / Abjurer, Debuffer / Hexer, Slower / Decel Binder, Summoner",
@@ -222,821 +122,287 @@
       "supporter_buffer": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_blessing_icon.png?raw=true",
       "supporter_debuffer": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_underminer_icon.png?raw=true",
       "supporter_slower": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_slower_icon.png?raw=true",
-      "supporter_summoner": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_summoner_icon.pn?raw=trueg"
+      "supporter_summoner": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_summoner_icon.png?raw=true"
     },
     {
       "_vanguard": "DP-On-Kill / Charger, Flagbearer / Standard Bearer, Skill-DP / Pioneer, Summoner / Tactician",
       "vanguard_charger": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_charger_icon.png?raw=true",
       "vanguard_flagbearer": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_bearer_icon.png?raw=true",
       "vanguard_pioneer": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_pioneer_icon.png?raw=true",
-      "vanguard_tactician": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_tactician_icon.pn?raw=trueg"
+      "vanguard_tactician": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_tactician_icon.png?raw=true"
     }
   ],
   "operator_icon": [
     {
-      "Cantablle": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_497_ctable.png?raw=true"
-    },
-    {
-      "Qanipalaat": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_466_qanik.png?raw=true"
-    },
-    {
-      "Vigil": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_427_vigil.png?raw=true"
-    },
-    {
-      "Stainless": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_4072_ironmn.png?raw=true"
-    },
-    {
-      "Paprika": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_4071_peper.png?raw=true"
-    },
-    {
-      "Luo-Xiaohei": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_4067_lolxh.png?raw=true"
-    },
-    {
-      "Lunacub": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_4014_lunacu.png?raw=true"
-    },
-    {
-      "Penance": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_4065_judge.png?raw=true"
-    },
-    {
-      "Mlynar": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_4064_mlynar.png?raw=true"
-    },
-    {
-      "Quartz": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_4063_quartz.png?raw=true"
-    },
-    {
-      "Totter": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_4062_totter.png?raw=true"
-    },
-    {
-      "Pozyomka": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_4055_bgsnow.png?raw=true"
-    },
-    {
-      "Minimalist": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_4054_malist.png?raw=true"
-    },
-    {
-      "Dorothy": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_4048_doroth.png?raw=true"
-    },
-    {
-      "Proviso": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_4032_provs.png?raw=true"
-    },
-    {
-      "Dagda": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_157_dagda.png?raw=true"
-    },
-    {
-      "Gavial-the-Invincible": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_1026_gvial2.png?raw=true"
-    },
-    {
-      "Greyy-the-Lightbearer": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_1027_greyy2.png?raw=true"
-    },
-    {
-      "Texas-the_Omertosa": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_1028_texas2.png?raw=true"
-    },
-    { "_added": "Added only above?raw=true" },
-    {
-      "Ebenholz": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_4046_ebnhlz.png?raw=true"
-    },
-    {
-      "Lumen": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_4042_lumen.png?raw=true"
-    },
-    {
-      "Irene": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_4009_irene.png?raw=true"
-    },
-    {
-      "Specter-Unchained": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_1023_ghost2.png?raw=true"
-    },
-    {
-      "Horn": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_4039_horn.png?raw=true"
-    },
-    {
-      "Fiammetta": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_300_phenxi.png?raw=true"
-    },
-    {
-      "Goldenglow": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_377_gdglow.png?raw=true"
-    },
-    {
-      "Lee": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_322_lmlee.png?raw=true"
-    },
-    {
-      "Ling": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_2023_ling.png?raw=true"
-    },
-    {
-      "Gnosis": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_206_gnosis.png?raw=true"
-    },
-    {
-      "Flametail": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_420_flamtl.png?raw=true"
-    },
-    {
-      "Nearl-Radiant-Knight": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_1014_nearl2.png?raw=true"
-    },
-    {
-      "Fartooth": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_430_fartth.png?raw=true"
-    },
-    {
-      "Saileach": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_479_sleach.png?raw=true"
-    },
-    {
-      "Mizuki": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_437_mizuki.png?raw=true"
-    },
-    {
-      "Chen-Holungday": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_1013_chen2.png?raw=true"
-    },
-    {
-      "Pallas": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_485_pallas.png?raw=true"
-    },
-    {
-      "Carnelian": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_426_billro.png?raw=true"
-    },
-    {
-      "Skadi-Corrupting-Heart": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_1012_skadi2.png?raw=true"
-    },
-    {
-      "Kaltsit": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_003_kalts.png?raw=true"
-    },
-    {
-      "Gladiia": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_474_glady.png?raw=true"
-    },
-    {
-      "Passenger": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_472_pasngr.png?raw=true"
-    },
-    {
-      "Ash": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_456_ash.png?raw=true"
-    },
-    {
-      "Dusk": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_2015_dusk.png?raw=true"
-    },
-    {
-      "Saga": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_362_saga.png?raw=true"
-    },
-    {
-      "Archetto": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_332_archet.png?raw=true"
-    },
-    {
-      "Mountain": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_264_f12yin.png?raw=true"
-    },
-    {
-      "Mudrock": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_311_mudrok.png?raw=true"
-    },
-    {
-      "Rosmontis": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_391_rosmon.png?raw=true"
-    },
-    {
-      "Blemishine": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_423_blemsh.png?raw=true"
-    },
-    {
-      "Surtr": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_350_surtr.png?raw=true"
-    },
-    {
-      "Eunectes": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_416_zumama.png?raw=true"
-    },
-    {
-      "Thorns": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_293_thorns.png?raw=true"
-    },
-    {
-      "Suzuran": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_358_lisa.png?raw=true"
-    },
-    {
-      "Rosa-Poca": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_197_poca.png?raw=true"
-    },
-    {
-      "Weedy": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_400_weedy.png?raw=true"
-    },
-    {
-      "W": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_113_cqbw.png?raw=true"
-    },
-    {
-      "Phantom": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_250_phatom.png?raw=true"
-    },
-    {
-      "Bagpipe": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_222_bpipe.png?raw=true"
-    },
-    {
-      "Ceobe": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_2013_cerber.png?raw=true"
-    },
-    {
-      "Nian": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_2014_nian.png?raw=true"
-    },
-    {
-      "Aak": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_225_haak.png?raw=true"
-    },
-    {
-      "Blaze": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_017_huang.png?raw=true"
-    },
-    {
-      "Mostima": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_213_mostma.png?raw=true"
-    },
-    {
-      "Magallan": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_248_mgllan.png?raw=true"
-    },
-    {
-      "Hellagur": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_188_helage.png?raw=true"
-    },
-    {
-      "Schwarz": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_340_shwaz.png?raw=true"
-    },
-    {
-      "Chen": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_010_chen.png?raw=true"
-    },
-    {
-      "Skadi": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_263_skadi.png?raw=true"
-    },
-    {
-      "SilverAsh": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_172_svrash.png?raw=true"
-    },
-    {
-      "Saria": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_202_demkni.png?raw=true"
-    },
-    {
-      "Hoshiguma": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_136_hsguma.png?raw=true"
-    },
-    {
-      "Nightingale": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_179_cgbird.png?raw=true"
-    },
-    {
-      "Shining": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_147_shining.png?raw=true"
-    },
-    {
-      "Angelina": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_291_aglina.png?raw=true"
-    },
-    {
-      "Eyjafjalla": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_180_amgoat.png?raw=true"
-    },
-    {
-      "Ifrit": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_134_ifrit.png?raw=true"
-    },
-    {
-      "Siege": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_112_siege.png?raw=true"
-    },
-    {
-      "Exusiai": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_103_angel.png?raw=true"
-    },
-    {
-      "Astgenne": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_135_halo.png?raw=true"
-    },
-    {
-      "Hibiscus-Purifier": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_1024_hbisc2.png?raw=true"
-    },
-    {
-      "Czerny": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_4047_pianst.png?raw=true"
-    },
-    {
-      "Erato": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_4043_erato.png?raw=true"
-    },
-    {
-      "Windflit": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_433_windft.png?raw=true"
-    },
-    {
-      "Rockrock": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_4040_rockr.png?raw=true"
-    },
-    {
-      "Heidi": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_4045_heidi.png?raw=true"
-    },
-    {
-      "Kazemaru": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_4016_kazema.png?raw=true"
-    },
-    {
-      "Enforcer": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_4036_forcer.png?raw=true"
-    },
-    {
-      "Quercus": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_492_quercu.png?raw=true"
-    },
-    {
-      "Kroos-Keen-Glint": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_1021_kroos2.png?raw=true"
-    },
-    {
-      "Blacknight": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_476_blkngt.png?raw=true"
-    },
-    {
-      "Shalem": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_512_aprot.png?raw=true"
-    },
-    {
-      "Aurora": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_422_aurora.png?raw=true"
-    },
-    {
-      "Kjera": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_4013_kjera.png?raw=true"
-    },
-    {
-      "Nine-Colored-Deer": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_4019_ncdeer.png?raw=true"
-    },
-    {
-      "Honeyberry": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_449_glider.png?raw=true"
-    },
-    {
-      "Wild-Mane": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_496_wildmn.png?raw=true"
-    },
-    {
-      "Corroserum": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_489_serum.png?raw=true"
-    },
-    {
-      "Ashlock": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_431_ashlok.png?raw=true"
-    },
-    {
-      "Mulberry": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_473_mberry.png?raw=true"
-    },
-    {
-      "Tequila": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_486_takila.png?raw=true"
-    },
-    {
-      "La-Pluma": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_421_crow.png?raw=true"
-    },
-    {
-      "Kirara": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_478_kirara.png?raw=true"
-    },
-    {
-      "Bena": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_369_bena.png?raw=true"
-    },
-    {
-      "Akafuyu": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_475_akafyu.png?raw=true"
-    },
-    {
-      "Toddifons": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_363_toddi.png?raw=true"
-    },
-    {
-      "Heavyrain": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_304_zebra.png?raw=true"
-    },
-    {
-      "Frost": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_458_rfrost.png?raw=true"
-    },
-    {
-      "Blitz": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_457_blitz.png?raw=true"
-    },
-    {
-      "Tachanka": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_459_tachak.png?raw=true"
-    },
-    {
-      "Mr-Nothing": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_455_nothin.png?raw=true"
-    },
-    {
-      "Lava-Purgatory": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_1011_lava2.png?raw=true"
-    },
-    {
-      "Tuye": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_402_tuye.png?raw=true"
-    },
-    {
-      "Iris": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_338_iris.png?raw=true"
-    },
-    {
-      "Robin": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_451_robin.png?raw=true"
-    },
-    {
-      "Kafka": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_214_kafka.png?raw=true"
-    },
-    {
-      "Amiya-Guard": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_1001_amiya2.png?raw=true"
-    },
-    {
-      "Whisperain": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_436_whispr.png?raw=true"
-    },
-    {
-      "Aosta": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_346_aosta.png?raw=true"
-    },
-    {
-      "Whislash": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_265_sophia.png?raw=true"
-    },
-    {
-      "April": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_365_aprl.png?raw=true"
-    },
-    {
-      "Mint": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_388_mint.png?raw=true"
-    },
-    {
-      "Touch": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_510_amedic.png?raw=true"
-    },
-    {
-      "Pith": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_509_acast.png?raw=true"
-    },
-    {
-      "Stormeye": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_511_asnipe.png?raw=true"
-    },
-    {
-      "Sharp": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_508_aguard.png?raw=true"
-    },
-    {
-      "Flint": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_415_flint.png?raw=true"
-    },
-    {
-      "Tomimi": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_411_tomimi.png?raw=true"
-    },
-    {
-      "Andreana": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_218_cuttle.png?raw=true"
-    },
-    {
-      "Chiave": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_349_chiave.png?raw=true"
-    },
-    {
-      "Beeswax": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_344_beewax.png?raw=true"
-    },
-    {
-      "Scene": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_336_folivo.png?raw=true"
-    },
-    {
-      "Ayerscarpe": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_294_ayer.png?raw=true"
-    },
-    {
-      "Folinic": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_345_folnic.png?raw=true"
-    },
-    {
-      "Leonhardt": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_373_lionhd.png?raw=true"
-    },
-    {
-      "Absinthe": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_405_absin.png?raw=true"
-    },
-    {
-      "Tsukinogi": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_343_tknogi.png?raw=true"
-    },
-    {
-      "Asbestos": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_378_asbest.png?raw=true"
-    },
-    {
-      "Elysium": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_401_elysm.png?raw=true"
-    },
-    {
-      "Shamare": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_254_vodfox.png?raw=true"
-    },
-    {
-      "Sideroca": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_333_sidero.png?raw=true"
-    },
-    {
-      "Sesa": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_379_sesa.png?raw=true"
-    },
-    {
-      "Bibeak": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_252_bibeak.png?raw=true"
-    },
-    {
-      "Leizi": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_306_leizi.png?raw=true"
-    },
-    {
-      "Hung": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_226_hmau.png?raw=true"
-    },
-    {
-      "Snowsant": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_383_snsant.png?raw=true"
-    },
-    {
-      "GreyThroat": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_367_swllow.png?raw=true"
-    },
-    {
-      "Broca": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_356_broca.png?raw=true"
-    },
-    {
-      "Reed": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_261_sddrag.png?raw=true"
-    },
-    {
-      "Bison": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_325_bison.png?raw=true"
-    },
-    {
-      "Waai-Fu": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_243_waaifu.png?raw=true"
-    },
-    {
-      "Ceylon": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_348_ceylon.png?raw=true"
-    },
-    {
-      "Flamebringer": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_131_flameb.png?raw=true"
-    },
-    {
-      "Breeze": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_275_breeze.png?raw=true"
-    },
-    {
-      "Executor": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_279_excu.png?raw=true"
-    },
-    {
-      "Astesia": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_274_astesi.png?raw=true"
-    },
-    {
-      "Glaucus": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_326_glacus.png?raw=true"
-    },
-    {
-      "Swire": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_308_swire.png?raw=true"
-    },
-    {
-      "Grani": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_220_grani.png?raw=true"
-    },
-    {
-      "Nightmare": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_164_nightm.png?raw=true"
-    },
-    {
-      "Savage": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_230_savage.png?raw=true"
-    },
-    {
-      "FEater": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_241_panda.png?raw=true"
-    },
-    {
-      "Manticore": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_215_mantic.png?raw=true"
-    },
-    {
-      "Sora": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_101_sora.png?raw=true"
-    },
-    {
-      "Istina": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_195_glassb.png?raw=true"
-    },
-    {
-      "Pramanix": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_174_slbell.png?raw=true"
-    },
-    {
-      "Cliffheart": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_173_slchan.png?raw=true"
-    },
-    {
-      "Firewatch": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_158_milu.png?raw=true"
-    },
-    {
-      "Provence": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_145_prove.png?raw=true"
-    },
-    {
-      "Vulcan": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_163_hpsts.png?raw=true"
-    },
-    {
-      "Croissant": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_201_moeshd.png?raw=true"
-    },
-    {
-      "Liskarm": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_107_liskam.png?raw=true"
-    },
-    {
-      "Projekt-Red": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_144_red.png?raw=true"
-    },
-    {
-      "Nearl": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_148_nearl.png?raw=true"
-    },
-    {
-      "Warfarin": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_171_bldsk.png?raw=true"
-    },
-    {
-      "Silence": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_108_silent.png?raw=true"
-    },
-    {
-      "Mayer": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_242_otter.png?raw=true"
-    },
-    {
-      "Skyfire": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_166_skfire.png?raw=true"
-    },
-    {
-      "Amiya": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_002_amiya.png?raw=true"
-    },
-    {
-      "Meteorite": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_219_meteo.png?raw=true"
-    },
-    {
-      "Platinum": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_204_platnm.png?raw=true"
-    },
-    {
-      "Blue-Poison": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_129_bluep.png?raw=true"
-    },
-    {
-      "Specter": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_143_ghost.png?raw=true"
-    },
-    {
-      "Lappland": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_140_whitew.png?raw=true"
-    },
-    {
-      "Indra": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_155_tiger.png?raw=true"
-    },
-    {
-      "Franka": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_106_franka.png?raw=true"
-    },
-    {
-      "Texas": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_102_texas.png?raw=true"
-    },
-    {
-      "Zima": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_115_headbr.png?raw=true"
-    },
-    {
-      "Ptilopsis": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_128_plosis.png?raw=true"
-    },
-    {
-      "Chestnut": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_4041_chnut.png?raw=true"
-    },
-    {
-      "Pudding": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_4004_pudd.png?raw=true"
-    },
-    {
-      "Roberta": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_484_robrta.png?raw=true"
-    },
-    {
-      "Indigo": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_469_indigo.png?raw=true"
-    },
-    {
-      "Beanstalk": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_452_bstalk.png?raw=true"
-    },
-    {
-      "Pinecone": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_440_pinecn.png?raw=true"
-    },
-    {
-      "Bubble": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_381_bubble.png?raw=true"
-    },
-    {
-      "Arene": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_271_spikes.png?raw=true"
-    },
-    {
-      "Aciddrop": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_366_acdrop.png?raw=true"
-    },
-    {
-      "Jaye": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_272_strong.png?raw=true"
-    },
-    {
-      "Click": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_328_cammou.png?raw=true"
-    },
-    {
-      "Podenco": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_258_podego.png?raw=true"
-    },
-    {
-      "Jackie": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_347_jaksel.png?raw=true"
-    },
-    {
-      "Cutter": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_301_cutter.png?raw=true"
-    },
-    {
-      "Conviction": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_159_peacok.png?raw=true"
-    },
-    {
-      "Utage": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_337_utage.png?raw=true"
-    },
-    {
-      "Purestream": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_385_finlpp.png?raw=true"
-    },
-    {
-      "Ambriel": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_302_glaze.png?raw=true"
-    },
-    {
-      "May": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_133_mm.png?raw=true"
-    },
-    {
-      "Ethan": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_355_ethan.png?raw=true"
-    },
-    {
-      "Dur-nar": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_260_durnar.png?raw=true"
-    },
-    {
-      "Vermeil": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_190_clour.png?raw=true"
-    },
-    {
-      "Myrtle": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_151_myrtle.png?raw=true"
-    },
-    {
-      "Sussurro": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_298_susuro.png?raw=true"
-    },
-    {
-      "Greyy": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_253_greyy.png?raw=true"
-    },
-    {
-      "Beehunter": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_137_brownb.png?raw=true"
-    },
-    {
-      "Shaw": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_277_sqrrel.png?raw=true"
-    },
-    {
-      "Earthspirit": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_183_skgoat.png?raw=true"
-    },
-    {
-      "Deepcolor": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_110_deepcl.png?raw=true"
-    },
-    {
-      "Gummy": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_196_sunbr.png?raw=true"
-    },
-    {
-      "Cuora": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_150_snakek.png?raw=true"
-    },
-    {
-      "Matterhorn": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_199_yak.png?raw=true"
-    },
-    {
-      "Perfumer": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_181_flower.png?raw=true"
-    },
-    {
-      "Gavial": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_187_ccheal.png?raw=true"
-    },
-    {
-      "Myrrh": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_117_myrrh.png?raw=true"
-    },
-    {
-      "Rope": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_236_rope.png?raw=true"
-    },
-    {
-      "Gravel": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_237_gravel.png?raw=true"
-    },
-    {
-      "Mousse": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_185_frncat.png?raw=true"
-    },
-    {
-      "Estelle": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_127_estell.png?raw=true"
-    },
-    {
-      "Frostleaf": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_193_frostl.png?raw=true"
-    },
-    {
-      "Matoimaru": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_289_gyuki.png?raw=true"
-    },
-    {
-      "Dobermann": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_130_doberm.png?raw=true"
-    },
-    {
-      "Vigna": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_290_vigna.png?raw=true"
-    },
-    {
-      "Scavenger": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_149_scave.png?raw=true"
-    },
-    {
-      "Courier": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_198_blackd.png?raw=true"
-    },
-    {
-      "Shirayuki": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_118_yuki.png?raw=true"
-    },
-    {
-      "Meteor": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_126_shotst.png?raw=true"
-    },
-    {
-      "Jessica": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_235_jesica.png?raw=true"
-    },
-    {
-      "Gitano": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_109_fmout.png?raw=true"
-    },
-    {
-      "Haze": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_141_nights.png?raw=true"
-    },
-    {
-      "Reserve-Operator-Caster": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_505_rcast.png?raw=true"
-    },
-    {
-      "Reserve-Operator-Logistics": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_506_rmedic.png?raw=true"
-    },
-    {
-      "Reserve-Operator-Sniper": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_507_rsnipe.png?raw=true"
-    },
-    {
-      "Reserve-Operator-Melee": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_504_rguard.png?raw=true"
-    },
-    {
-      "Spot": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_284_spot.png?raw=true"
-    },
-    {
-      "Popukar": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_281_popka.png?raw=true"
-    },
-    {
-      "Midnight": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_283_midn.png?raw=true"
-    },
-    {
-      "Catapult": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_282_catap.png?raw=true"
-    },
-    {
-      "Orchid": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_278_orchid.png?raw=true"
-    },
-    {
-      "Steward": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_210_stward.png?raw=true"
-    },
-    {
-      "Ansel": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_212_ansel.png?raw=true"
-    },
-    {
-      "Hibiscus": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_120_hibisc.png?raw=true"
-    },
-    {
-      "Lava": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_121_lava.png?raw=true"
-    },
-    {
-      "Adnachiel": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_211_adnach.png?raw=true"
-    },
-    {
-      "Kroos": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_124_kroos.png?raw=true"
-    },
-    {
-      "Beagle": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_122_beagle.png?raw=true"
-    },
-    {
-      "Cardigan": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_209_ardign.png?raw=true"
-    },
-    {
-      "Melantha": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_208_melan.png?raw=true"
-    },
-    {
-      "Plume": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_192_falco.png?raw=true"
-    },
-    {
-      "Vanilla": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_240_wyvern.png?raw=true"
-    },
-    {
-      "Fang": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_123_fang.png?raw=true"
-    },
-    {
-      "12F": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_009_12fce.png?raw=true"
-    },
-    {
-      "Durin": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_501_durin.png?raw=true"
-    },
-    {
-      "Rangers": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_503_rang.png?raw=true"
-    },
-    {
-      "Noir-Corne": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_500_noirc.png?raw=true"
-    },
-    {
-      "Yato": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_502_nblade.png?raw=true"
-    },
-    {
-      "Justice-Knight": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_4000_jnight.png?raw=true"
-    },
-    {
-      "THRM-EX": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_376_therex.png?raw=true"
-    },
-    {
-      "Castle-3": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_286_cast3.png?raw=true"
-    },
-    {
-      "Lancet-2": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_285_medic2.pn?raw=trueg"
+      "Cantablle": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_497_ctable.png?raw=true",
+      "Qanipalaat": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_466_qanik.png?raw=true",
+      "Vigil": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_427_vigil.png?raw=true",
+      "Stainless": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_4072_ironmn.png?raw=true",
+      "Paprika": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_4071_peper.png?raw=true",
+      "Luo-Xiaohei": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_4067_lolxh.png?raw=true",
+      "Lunacub": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_4014_lunacu.png?raw=true",
+      "Penance": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_4065_judge.png?raw=true",
+      "Mlynar": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_4064_mlynar.png?raw=true",
+      "Quartz": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_4063_quartz.png?raw=true",
+      "Totter": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_4062_totter.png?raw=true",
+      "Pozyomka": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_4055_bgsnow.png?raw=true",
+      "Minimalist": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_4054_malist.png?raw=true",
+      "Dorothy": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_4048_doroth.png?raw=true",
+      "Proviso": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_4032_provs.png?raw=true",
+      "Dagda": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_157_dagda.png?raw=true",
+      "Gavial-the-Invincible": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_1026_gvial2.png?raw=true",
+      "Greyy-the-Lightbearer": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_1027_greyy2.png?raw=true",
+      "Texas-the_Omertosa": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_1028_texas2.png?raw=true",
+      "_added": "Added only above?raw=true",
+      "Ebenholz": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_4046_ebnhlz.png?raw=true",
+      "Lumen": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_4042_lumen.png?raw=true",
+      "Irene": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_4009_irene.png?raw=true",
+      "Specter-Unchained": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_1023_ghost2.png?raw=true",
+      "Horn": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_4039_horn.png?raw=true",
+      "Fiammetta": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_300_phenxi.png?raw=true",
+      "Goldenglow": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_377_gdglow.png?raw=true",
+      "Lee": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_322_lmlee.png?raw=true",
+      "Ling": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_2023_ling.png?raw=true",
+      "Gnosis": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_206_gnosis.png?raw=true",
+      "Flametail": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_420_flamtl.png?raw=true",
+      "Nearl-Radiant-Knight": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_1014_nearl2.png?raw=true",
+      "Fartooth": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_430_fartth.png?raw=true",
+      "Saileach": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_479_sleach.png?raw=true",
+      "Mizuki": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_437_mizuki.png?raw=true",
+      "Chen-Holungday": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_1013_chen2.png?raw=true",
+      "Pallas": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_485_pallas.png?raw=true",
+      "Carnelian": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_426_billro.png?raw=true",
+      "Skadi-Corrupting-Heart": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_1012_skadi2.png?raw=true",
+      "Kaltsit": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_003_kalts.png?raw=true",
+      "Gladiia": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_474_glady.png?raw=true",
+      "Passenger": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_472_pasngr.png?raw=true",
+      "Ash": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_456_ash.png?raw=true",
+      "Dusk": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_2015_dusk.png?raw=true",
+      "Saga": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_362_saga.png?raw=true",
+      "Archetto": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_332_archet.png?raw=true",
+      "Mountain": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_264_f12yin.png?raw=true",
+      "Mudrock": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_311_mudrok.png?raw=true",
+      "Rosmontis": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_391_rosmon.png?raw=true",
+      "Blemishine": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_423_blemsh.png?raw=true",
+      "Surtr": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_350_surtr.png?raw=true",
+      "Eunectes": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_416_zumama.png?raw=true",
+      "Thorns": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_293_thorns.png?raw=true",
+      "Suzuran": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_358_lisa.png?raw=true",
+      "Rosa-Poca": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_197_poca.png?raw=true",
+      "Weedy": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_400_weedy.png?raw=true",
+      "W": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_113_cqbw.png?raw=true",
+      "Phantom": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_250_phatom.png?raw=true",
+      "Bagpipe": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_222_bpipe.png?raw=true",
+      "Ceobe": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_2013_cerber.png?raw=true",
+      "Nian": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_2014_nian.png?raw=true",
+      "Aak": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_225_haak.png?raw=true",
+      "Blaze": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_017_huang.png?raw=true",
+      "Mostima": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_213_mostma.png?raw=true",
+      "Magallan": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_248_mgllan.png?raw=true",
+      "Hellagur": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_188_helage.png?raw=true",
+      "Schwarz": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_340_shwaz.png?raw=true",
+      "Chen": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_010_chen.png?raw=true",
+      "Skadi": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_263_skadi.png?raw=true",
+      "SilverAsh": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_172_svrash.png?raw=true",
+      "Saria": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_202_demkni.png?raw=true",
+      "Hoshiguma": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_136_hsguma.png?raw=true",
+      "Nightingale": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_179_cgbird.png?raw=true",
+      "Shining": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_147_shining.png?raw=true",
+      "Angelina": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_291_aglina.png?raw=true",
+      "Eyjafjalla": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_180_amgoat.png?raw=true",
+      "Ifrit": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_134_ifrit.png?raw=true",
+      "Siege": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_112_siege.png?raw=true",
+      "Exusiai": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_103_angel.png?raw=true",
+      "Astgenne": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_135_halo.png?raw=true",
+      "Hibiscus-Purifier": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_1024_hbisc2.png?raw=true",
+      "Czerny": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_4047_pianst.png?raw=true",
+      "Erato": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_4043_erato.png?raw=true",
+      "Windflit": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_433_windft.png?raw=true",
+      "Rockrock": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_4040_rockr.png?raw=true",
+      "Heidi": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_4045_heidi.png?raw=true",
+      "Kazemaru": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_4016_kazema.png?raw=true",
+      "Enforcer": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_4036_forcer.png?raw=true",
+      "Quercus": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_492_quercu.png?raw=true",
+      "Kroos-Keen-Glint": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_1021_kroos2.png?raw=true",
+      "Blacknight": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_476_blkngt.png?raw=true",
+      "Shalem": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_512_aprot.png?raw=true",
+      "Aurora": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_422_aurora.png?raw=true",
+      "Kjera": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_4013_kjera.png?raw=true",
+      "Nine-Colored-Deer": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_4019_ncdeer.png?raw=true",
+      "Honeyberry": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_449_glider.png?raw=true",
+      "Wild-Mane": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_496_wildmn.png?raw=true",
+      "Corroserum": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_489_serum.png?raw=true",
+      "Ashlock": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_431_ashlok.png?raw=true",
+      "Mulberry": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_473_mberry.png?raw=true",
+      "Tequila": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_486_takila.png?raw=true",
+      "La-Pluma": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_421_crow.png?raw=true",
+      "Kirara": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_478_kirara.png?raw=true",
+      "Bena": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_369_bena.png?raw=true",
+      "Akafuyu": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_475_akafyu.png?raw=true",
+      "Toddifons": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_363_toddi.png?raw=true",
+      "Heavyrain": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_304_zebra.png?raw=true",
+      "Frost": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_458_rfrost.png?raw=true",
+      "Blitz": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_457_blitz.png?raw=true",
+      "Tachanka": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_459_tachak.png?raw=true",
+      "Mr-Nothing": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_455_nothin.png?raw=true",
+      "Lava-Purgatory": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_1011_lava2.png?raw=true",
+      "Tuye": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_402_tuye.png?raw=true",
+      "Iris": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_338_iris.png?raw=true",
+      "Robin": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_451_robin.png?raw=true",
+      "Kafka": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_214_kafka.png?raw=true",
+      "Amiya-Guard": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_1001_amiya2.png?raw=true",
+      "Whisperain": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_436_whispr.png?raw=true",
+      "Aosta": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_346_aosta.png?raw=true",
+      "Whislash": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_265_sophia.png?raw=true",
+      "April": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_365_aprl.png?raw=true",
+      "Mint": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_388_mint.png?raw=true",
+      "Touch": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_510_amedic.png?raw=true",
+      "Pith": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_509_acast.png?raw=true",
+      "Stormeye": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_511_asnipe.png?raw=true",
+      "Sharp": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_508_aguard.png?raw=true",
+      "Flint": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_415_flint.png?raw=true",
+      "Tomimi": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_411_tomimi.png?raw=true",
+      "Andreana": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_218_cuttle.png?raw=true",
+      "Chiave": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_349_chiave.png?raw=true",
+      "Beeswax": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_344_beewax.png?raw=true",
+      "Scene": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_336_folivo.png?raw=true",
+      "Ayerscarpe": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_294_ayer.png?raw=true",
+      "Folinic": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_345_folnic.png?raw=true",
+      "Leonhardt": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_373_lionhd.png?raw=true",
+      "Absinthe": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_405_absin.png?raw=true",
+      "Tsukinogi": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_343_tknogi.png?raw=true",
+      "Asbestos": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_378_asbest.png?raw=true",
+      "Elysium": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_401_elysm.png?raw=true",
+      "Shamare": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_254_vodfox.png?raw=true",
+      "Sideroca": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_333_sidero.png?raw=true",
+      "Sesa": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_379_sesa.png?raw=true",
+      "Bibeak": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_252_bibeak.png?raw=true",
+      "Leizi": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_306_leizi.png?raw=true",
+      "Hung": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_226_hmau.png?raw=true",
+      "Snowsant": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_383_snsant.png?raw=true",
+      "GreyThroat": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_367_swllow.png?raw=true",
+      "Broca": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_356_broca.png?raw=true",
+      "Reed": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_261_sddrag.png?raw=true",
+      "Bison": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_325_bison.png?raw=true",
+      "Waai-Fu": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_243_waaifu.png?raw=true",
+      "Ceylon": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_348_ceylon.png?raw=true",
+      "Flamebringer": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_131_flameb.png?raw=true",
+      "Breeze": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_275_breeze.png?raw=true",
+      "Executor": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_279_excu.png?raw=true",
+      "Astesia": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_274_astesi.png?raw=true",
+      "Glaucus": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_326_glacus.png?raw=true",
+      "Swire": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_308_swire.png?raw=true",
+      "Grani": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_220_grani.png?raw=true",
+      "Nightmare": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_164_nightm.png?raw=true",
+      "Savage": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_230_savage.png?raw=true",
+      "FEater": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_241_panda.png?raw=true",
+      "Manticore": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_215_mantic.png?raw=true",
+      "Sora": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_101_sora.png?raw=true",
+      "Istina": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_195_glassb.png?raw=true",
+      "Pramanix": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_174_slbell.png?raw=true",
+      "Cliffheart": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_173_slchan.png?raw=true",
+      "Firewatch": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_158_milu.png?raw=true",
+      "Provence": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_145_prove.png?raw=true",
+      "Vulcan": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_163_hpsts.png?raw=true",
+      "Croissant": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_201_moeshd.png?raw=true",
+      "Liskarm": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_107_liskam.png?raw=true",
+      "Projekt-Red": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_144_red.png?raw=true",
+      "Nearl": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_148_nearl.png?raw=true",
+      "Warfarin": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_171_bldsk.png?raw=true",
+      "Silence": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_108_silent.png?raw=true",
+      "Mayer": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_242_otter.png?raw=true",
+      "Skyfire": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_166_skfire.png?raw=true",
+      "Amiya": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_002_amiya.png?raw=true",
+      "Meteorite": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_219_meteo.png?raw=true",
+      "Platinum": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_204_platnm.png?raw=true",
+      "Blue-Poison": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_129_bluep.png?raw=true",
+      "Specter": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_143_ghost.png?raw=true",
+      "Lappland": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_140_whitew.png?raw=true",
+      "Indra": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_155_tiger.png?raw=true",
+      "Franka": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_106_franka.png?raw=true",
+      "Texas": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_102_texas.png?raw=true",
+      "Zima": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_115_headbr.png?raw=true",
+      "Ptilopsis": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_128_plosis.png?raw=true",
+      "Chestnut": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_4041_chnut.png?raw=true",
+      "Pudding": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_4004_pudd.png?raw=true",
+      "Roberta": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_484_robrta.png?raw=true",
+      "Indigo": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_469_indigo.png?raw=true",
+      "Beanstalk": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_452_bstalk.png?raw=true",
+      "Pinecone": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_440_pinecn.png?raw=true",
+      "Bubble": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_381_bubble.png?raw=true",
+      "Arene": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_271_spikes.png?raw=true",
+      "Aciddrop": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_366_acdrop.png?raw=true",
+      "Jaye": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_272_strong.png?raw=true",
+      "Click": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_328_cammou.png?raw=true",
+      "Podenco": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_258_podego.png?raw=true",
+      "Jackie": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_347_jaksel.png?raw=true",
+      "Cutter": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_301_cutter.png?raw=true",
+      "Conviction": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_159_peacok.png?raw=true",
+      "Utage": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_337_utage.png?raw=true",
+      "Purestream": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_385_finlpp.png?raw=true",
+      "Ambriel": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_302_glaze.png?raw=true",
+      "May": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_133_mm.png?raw=true",
+      "Ethan": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_355_ethan.png?raw=true",
+      "Dur-nar": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_260_durnar.png?raw=true",
+      "Vermeil": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_190_clour.png?raw=true",
+      "Myrtle": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_151_myrtle.png?raw=true",
+      "Sussurro": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_298_susuro.png?raw=true",
+      "Greyy": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_253_greyy.png?raw=true",
+      "Beehunter": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_137_brownb.png?raw=true",
+      "Shaw": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_277_sqrrel.png?raw=true",
+      "Earthspirit": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_183_skgoat.png?raw=true",
+      "Deepcolor": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_110_deepcl.png?raw=true",
+      "Gummy": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_196_sunbr.png?raw=true",
+      "Cuora": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_150_snakek.png?raw=true",
+      "Matterhorn": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_199_yak.png?raw=true",
+      "Perfumer": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_181_flower.png?raw=true",
+      "Gavial": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_187_ccheal.png?raw=true",
+      "Myrrh": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_117_myrrh.png?raw=true",
+      "Rope": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_236_rope.png?raw=true",
+      "Gravel": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_237_gravel.png?raw=true",
+      "Mousse": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_185_frncat.png?raw=true",
+      "Estelle": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_127_estell.png?raw=true",
+      "Frostleaf": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_193_frostl.png?raw=true",
+      "Matoimaru": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_289_gyuki.png?raw=true",
+      "Dobermann": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_130_doberm.png?raw=true",
+      "Vigna": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_290_vigna.png?raw=true",
+      "Scavenger": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_149_scave.png?raw=true",
+      "Courier": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_198_blackd.png?raw=true",
+      "Shirayuki": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_118_yuki.png?raw=true",
+      "Meteor": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_126_shotst.png?raw=true",
+      "Jessica": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_235_jesica.png?raw=true",
+      "Gitano": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_109_fmout.png?raw=true",
+      "Haze": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_141_nights.png?raw=true",
+      "Reserve-Operator-Caster": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_505_rcast.png?raw=true",
+      "Reserve-Operator-Logistics": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_506_rmedic.png?raw=true",
+      "Reserve-Operator-Sniper": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_507_rsnipe.png?raw=true",
+      "Reserve-Operator-Melee": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_504_rguard.png?raw=true",
+      "Spot": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_284_spot.png?raw=true",
+      "Popukar": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_281_popka.png?raw=true",
+      "Midnight": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_283_midn.png?raw=true",
+      "Catapult": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_282_catap.png?raw=true",
+      "Orchid": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_278_orchid.png?raw=true",
+      "Steward": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_210_stward.png?raw=true",
+      "Ansel": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_212_ansel.png?raw=true",
+      "Hibiscus": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_120_hibisc.png?raw=true",
+      "Lava": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_121_lava.png?raw=true",
+      "Adnachiel": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_211_adnach.png?raw=true",
+      "Kroos": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_124_kroos.png?raw=true",
+      "Beagle": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_122_beagle.png?raw=true",
+      "Cardigan": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_209_ardign.png?raw=true",
+      "Melantha": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_208_melan.png?raw=true",
+      "Plume": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_192_falco.png?raw=true",
+      "Vanilla": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_240_wyvern.png?raw=true",
+      "Fang": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_123_fang.png?raw=true",
+      "12F": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_009_12fce.png?raw=true",
+      "Durin": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_501_durin.png?raw=true",
+      "Rangers": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_503_rang.png?raw=true",
+      "Noir-Corne": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_500_noirc.png?raw=true",
+      "Yato": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_502_nblade.png?raw=true",
+      "Justice-Knight": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_4000_jnight.png?raw=true",
+      "THRM-EX": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_376_therex.png?raw=true",
+      "Castle-3": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_286_cast3.png?raw=true",
+      "Lancet-2": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_285_medic2.png?raw=true"
     }
   ]
 }
