@@ -1,126 +1,410 @@
 [
   {
-    "Caster": "https://github.com/Aceship/Arknight-Images/blob/main/classes/class_caster.png?raw=true",
-    "_caster": "AoE / Splash Caster, Burninator / Blast Caster, Chain Caster, Charge / Mystic Caster, Drone / Mech-Accord, Modal / Phalanx Caster, ST / Core Caster",
-    "AoE": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_splashcaster_icon.png?raw=true",
-    "Splash Caster": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_splashcaster_icon.png?raw=true",
-    "Burninator": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_blastcaster_icon.png?raw=true",
-    "caster_blaster": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_blastcaster_icon.png?raw=true",
-    "Blast Caster": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_chain_icon.png?raw=true",
-    "Chain Caster": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_mystic_icon.png?raw=true",
-    "Charge": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_mystic_icon.png?raw=true",
-    "Mystic Caster": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_mystic_icon.png?raw=true",
-    "Drone": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_funnel_icon.png?raw=true",
-    "Mech-Accord": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_funnel_icon.png?raw=true",
-    "Modal": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_phalanx_icon.png?raw=true",
-    "Phalanx Caster": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_phalanx_icon.png?raw=true",
-    "ST": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_corecaster_icon.png?raw=true",
-    "Core Caster": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_corecaster_icon.png?raw=true"
+    "name": "Caster",
+    "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/classes/class_caster.png?raw=true",
+    "_caster": [
+      {
+        "name": "AoE",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_splashcaster_icon.png?raw=true"
+      },
+      {
+        "name": "Splash Caster",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_splashcaster_icon.png?raw=true"
+      },
+      {
+        "name": "Burninator",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_blastcaster_icon.png?raw=true"
+      },
+      {
+        "name": "Blast Caster",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_chain_icon.png?raw=true"
+      },
+      {
+        "name": "Chain Caster",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_mystic_icon.png?raw=true"
+      },
+      {
+        "name": "Charge",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_mystic_icon.png?raw=true"
+      },
+      {
+        "name": "Mystic Caster",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_mystic_icon.png?raw=true"
+      },
+      {
+        "name": "Drone",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_funnel_icon.png?raw=true"
+      },
+      {
+        "name": "Mech-Accord",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_funnel_icon.png?raw=true"
+      },
+      {
+        "name": "Modal",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_phalanx_icon.png?raw=true"
+      },
+      {
+        "name": "Phalanx Caster",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_phalanx_icon.png?raw=true"
+      },
+      {
+        "name": "ST",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_corecaster_icon.png?raw=true"
+      },
+      {
+        "name": "Core Caster",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_corecaster_icon.png?raw=true"
+      }
+    ]
   },
   {
-    "Defender": "https://github.com/Aceship/Arknight-Images/blob/main/classes/class_defender.png?raw=true",
-    "_defender": "Arts Protector, Duelist, Enmity / Juggernaut, Fortress, Healing / Guardian, Normal / Protector",
-    "Arts Protector": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_artsprotector_icon.png?raw=true",
-    "Duelist": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_duelist_icon.png?raw=true",
-    "Enmity": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_unyield_icon.png?raw=true",
-    "Juggernaut": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_unyield_icon.png?raw=true",
-    "Fortress": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_fortress_icon.png?raw=true",
-    "Healing": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_guardian_icon.png?raw=true",
-    "Guardian": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_guardian_icon.png?raw=true",
-    "Normal": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_protector_icon.png?raw=true",
-    "Protector": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_protector_icon.png?raw=true"
+    "name": "Defender",
+    "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/classes/class_defender.png?raw=true",
+    "_defender": [
+      {
+        "name": "Arts Protector",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_artsprotector_icon.png?raw=true"
+      },
+      {
+        "name": "Duelist",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_duelist_icon.png?raw=true"
+      },
+      {
+        "name": "Enmity",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_unyield_icon.png?raw=true"
+      },
+      {
+        "name": "Juggernaut",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_unyield_icon.png?raw=true"
+      },
+      {
+        "name": "Fortress",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_fortress_icon.png?raw=true"
+      },
+      {
+        "name": "Healing",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_guardian_icon.png?raw=true"
+      },
+      {
+        "name": "Guardian",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_guardian_icon.png?raw=true"
+      },
+      {
+        "name": "Normal",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_protector_icon.png?raw=true"
+      },
+      {
+        "name": "Protector",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_protector_icon.png?raw=true"
+      }
+    ]
   },
   {
-    "Guard": "https://github.com/Aceship/Arknight-Images/blob/main/classes/class_guard.png?raw=true",
-    "_guard": "AoE / Centurion, Arts Fighter, Brawler / Fighter, Dualstrike / Swordmaster, Duelist / Dreadnought, Enmity / Musha, Liberator Guard, Ranged / Lord, Reaper Guard, Support / Instructor",
-    "AoE": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_centurion_icon.png?raw=true",
-    "Centurion": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_centurion_icon.png?raw=true",
-    "Arts Fighter": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_artsfghter_icon.png?raw=true",
-    "Brawler": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_fighter_icon.png?raw=true",
-    "Fighter": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_fighter_icon.png?raw=true",
-    "Dualstrike": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_sword_icon.png?raw=true",
-    "Swordmaster": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_sword_icon.png?raw=true",
-    "Duelist": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_duelist_icon.png?raw=true",
-    "Dreadnought": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_duelist_icon.png?raw=true",
-    "Enmity": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_musha_icon.png?raw=true",
-    "Musha": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_musha_icon.png?raw=true",
-    "Liberator Guard": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_librator_icon.png?raw=true",
-    "Ranged": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_lord_icon.png?raw=true",
-    "Lord": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_lord_icon.png?raw=true",
-    "Reaper Guard": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_reaper_icon.png?raw=true",
-    "Support": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_instructor_icon.png?raw=true",
-    "Instructor": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_instructor_icon.png?raw=true"
+    "name": "Guard",
+    "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/classes/class_guard.png?raw=true",
+    "_guard": [
+      {
+        "name": "AoE",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_centurion_icon.png?raw=true"
+      },
+      {
+        "name": "Centurion",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_centurion_icon.png?raw=true"
+      },
+      {
+        "name": "Arts Fighter",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_artsfghter_icon.png?raw=true"
+      },
+      {
+        "name": "Brawler",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_fighter_icon.png?raw=true"
+      },
+      {
+        "name": "Fighter",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_fighter_icon.png?raw=true"
+      },
+      {
+        "name": "Dualstrike",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_sword_icon.png?raw=true"
+      },
+      {
+        "name": "Swordmaster",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_sword_icon.png?raw=true"
+      },
+      {
+        "name": "Duelist",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_duelist_icon.png?raw=true"
+      },
+      {
+        "name": "Dreadnought",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_duelist_icon.png?raw=true"
+      },
+      {
+        "name": "Enmity",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_musha_icon.png?raw=true"
+      },
+      {
+        "name": "Musha",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_musha_icon.png?raw=true"
+      },
+      {
+        "name": "Liberator Guard",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_librator_icon.png?raw=true"
+      },
+      {
+        "name": "Ranged",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_lord_icon.png?raw=true"
+      },
+      {
+        "name": "Lord",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_lord_icon.png?raw=true"
+      },
+      {
+        "name": "Reaper Guard",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_reaper_icon.png?raw=true"
+      },
+      {
+        "name": "Support",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_instructor_icon.png?raw=true"
+      },
+      {
+        "name": "Instructor",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_instructor_icon.png?raw=true"
+      }
+    ]
   },
   {
-    "Medic": "https://github.com/Aceship/Arknight-Images/blob/main/classes/class_medic.png?raw=true",
-    "_medic": "AoE / Multi-target Medic, ST / Medic, Wandering Medic, Wide-Range / Therapist",
-    "AoE": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_ringhealer_icon.png?raw=true",
-    "Multi-target Medic": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_ringhealer_icon.png?raw=true",
-    "ST": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_physician_icon.png?raw=true",
-    "Wandering Medic": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_wandermedic_icon.png?raw=true",
-    "Wide-Range": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_healer_icon.png?raw=true",
-    "Therapist": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_healer_icon.png?raw=true"
+    "name": "Medic",
+    "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/classes/class_medic.png?raw=true",
+    "_medic": [
+      {
+        "name": "AoE",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_ringhealer_icon.png?raw=true"
+      },
+      {
+        "name": "Multi-target Medic",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_ringhealer_icon.png?raw=true"
+      },
+      {
+        "name": "ST",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_physician_icon.png?raw=true"
+      },
+      {
+        "name": "Wandering Medic",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_wandermedic_icon.png?raw=true"
+      },
+      {
+        "name": "Wide-Range",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_healer_icon.png?raw=true"
+      },
+      {
+        "name": "Therapist",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_healer_icon.png?raw=true"
+      }
+    ]
   },
   {
-    "Sniper": "https://github.com/Aceship/Arknight-Images/blob/main/classes/class_sniper.png?raw=true",
-    "_sniper": "Aftershock / Flinger, Anti-Air / Marksman, AoE / Artilleryman, Boomstick / Spreadshooter, Close Range / Heavyshooter, Heavyweight / Besieger, Long-Range / Deadeye",
-    "Aftershock": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_bombarder_icon.png?raw=true",
-    "Flinger": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_bombarder_icon.png?raw=true",
-    "Anti-Air": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_fastshot_icon.png?raw=true",
-    "Marksman": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_fastshot_icon.png?raw=true",
-    "AoE": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_aoesniper_icon.png?raw=true",
-    "Artilleryman": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_aoesniper_icon.png?raw=true",
-    "Boomstick": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_reaperrange_icon.png?raw=true",
-    "sniper_boomstick": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_reaperrange_icon.png?raw=true",
-    "Spreadshooter": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_closerange_icon.png?raw=true",
-    "Close Range": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_closerange_icon.png?raw=true",
-    "Heavyshooter": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_closerange_icon.png?raw=true",
-    "Heavyweight": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_siegesniper_icon.png?raw=true",
-    "Besieger": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_siegesniper_icon.png?raw=true",
-    "Long-Range": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_longrange_icon.png?raw=true",
-    "Deadeye": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_longrange_icon.png?raw=true"
+    "name": "Sniper",
+    "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/classes/class_sniper.png?raw=true",
+    "_sniper": [
+      {
+        "name": "Aftershock",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_bombarder_icon.png?raw=true"
+      },
+      {
+        "name": "Flinger",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_bombarder_icon.png?raw=true"
+      },
+      {
+        "name": "Anti-Air",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_fastshot_icon.png?raw=true"
+      },
+      {
+        "name": "Marksman",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_fastshot_icon.png?raw=true"
+      },
+      {
+        "name": "AoE",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_aoesniper_icon.png?raw=true"
+      },
+      {
+        "name": "Artilleryman",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_aoesniper_icon.png?raw=true"
+      },
+      {
+        "name": "Boomstick",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_reaperrange_icon.png?raw=true"
+      },
+      {
+        "name": "Spreadshooter",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_reaperrange_icon.png?raw=true"
+      },
+      {
+        "name": "Close Range",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_closerange_icon.png?raw=true"
+      },
+      {
+        "name": "Heavyshooter",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_closerange_icon.png?raw=true"
+      },
+      {
+        "name": "Heavyweight",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_siegesniper_icon.png?raw=true"
+      },
+      {
+        "name": "Besieger",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_siegesniper_icon.png?raw=true"
+      },
+      {
+        "name": "Long-Range",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_longrange_icon.png?raw=true"
+      },
+      {
+        "name": "Deadeye",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_longrange_icon.png?raw=true"
+      }
+    ]
   },
   {
-    "Specialist": "https://github.com/Aceship/Arknight-Images/blob/main/classes/class_specialist.png?raw=true",
-    "_specialist": "Ambusher, DP-Drain / Merchant, Fast-Redeploy / Executor, Puller / Hookmaster, Pusher / Push Stroker, Sacrificial Specialist, Substitute / Dollkeeper, Trapmaster",
-    "Ambusher": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_stalker_icon.png?raw=true",
-    "DP-Drain": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_merchant_icon.png?raw=true",
-    "Merchant": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_merchant_icon.png?raw=true",
-    "Fast-Redeploy": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_executor_icon.png?raw=true",
-    "Executor": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_executor_icon.png?raw=true",
-    "Puller": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_hookmaster_icon.png?raw=true",
-    "Hookmaster": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_hookmaster_icon.png?raw=true",
-    "Pusher": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_pusher_icon.png?raw=true",
-    "Push Stroker": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_pusher_icon.png?raw=true",
-    "Sacrificial Specialist": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_geek_icon.png?raw=true",
-    "Substitute": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_dollkeeper_icon.png?raw=true",
-    "Dollkeeper": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_dollkeeper_icon.png?raw=true",
-    "Trapmaster": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_traper_icon.png?raw=true"
+    "name": "Specialist",
+    "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/classes/class_specialist.png?raw=true",
+    "_specialist": [
+      {
+        "name": "Ambusher",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_stalker_icon.png?raw=true"
+      },
+      {
+        "name": "DP-Drain",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_merchant_icon.png?raw=true"
+      },
+      {
+        "name": "Merchant",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_merchant_icon.png?raw=true"
+      },
+      {
+        "name": "Fast-Redeploy",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_executor_icon.png?raw=true"
+      },
+      {
+        "name": "Executor",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_executor_icon.png?raw=true"
+      },
+      {
+        "name": "Puller",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_hookmaster_icon.png?raw=true"
+      },
+      {
+        "name": "Hookmaster",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_hookmaster_icon.png?raw=true"
+      },
+      {
+        "name": "Pusher",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_pusher_icon.png?raw=true"
+      },
+      {
+        "name": "Push Stroker",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_pusher_icon.png?raw=true"
+      },
+      {
+        "name": "Sacrificial Specialist",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_geek_icon.png?raw=true"
+      },
+      {
+        "name": "Substitute",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_dollkeeper_icon.png?raw=true"
+      },
+      {
+        "name": "Dollkeeper",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_dollkeeper_icon.png?raw=true"
+      },
+      {
+        "name": "Trapmaster",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_traper_icon.png?raw=true"
+      }
+    ]
   },
   {
-    "Supporter": "https://github.com/Aceship/Arknight-Images/blob/main/classes/class_supporter.png?raw=true",
-    "_supporter": "Artificer, Aura / Bard, Buffer / Abjurer, Debuffer / Hexer, Slower / Decel Binder, Summoner",
-    "Artificer": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_craftsman_icon.png?raw=true",
-    "Aura": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_bard_icon.png?raw=true",
-    "Bard": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_bard_icon.png?raw=true",
-    "Buffer": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_blessing_icon.png?raw=true",
-    "Abjurer": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_blessing_icon.png?raw=true",
-    "Debuffer": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_underminer_icon.png?raw=true",
-    "Hexer": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_underminer_icon.png?raw=true",
-    "Slower": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_slower_icon.png?raw=true",
-    "Decel Binder": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_slower_icon.png?raw=true",
-    "Summoner": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_summoner_icon.png?raw=true"
+    "name": "Supporter",
+    "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/classes/class_supporter.png?raw=true",
+    "_supporter": [
+      {
+        "name": "Artificer",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_craftsman_icon.png?raw=true"
+      },
+      {
+        "name": "Aura",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_bard_icon.png?raw=true"
+      },
+      {
+        "name": "Bard",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_bard_icon.png?raw=true"
+      },
+      {
+        "name": "Buffer",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_blessing_icon.png?raw=true"
+      },
+      {
+        "name": "Abjurer",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_blessing_icon.png?raw=true"
+      },
+      {
+        "name": "Debuffer",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_underminer_icon.png?raw=true"
+      },
+      {
+        "name": "Hexer",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_underminer_icon.png?raw=true"
+      },
+      {
+        "name": "Slower",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_slower_icon.png?raw=true"
+      },
+      {
+        "name": "Decel Binder",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_slower_icon.png?raw=true"
+      },
+      {
+        "name": "Summoner",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_summoner_icon.png?raw=true"
+      }
+    ]
   },
   {
-    "Vanguard": "https://github.com/Aceship/Arknight-Images/blob/main/classes/class_vanguard.png?raw=true",
-    "_vanguard": "DP-On-Kill / Charger, Flagbearer / Standard Bearer, Skill-DP / Pioneer, Summoner / Tactician",
-    "DP-On-Kill": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_charger_icon.png?raw=true",
-    "Charger": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_charger_icon.png?raw=true",
-    "Flagbearer": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_bearer_icon.png?raw=true",
-    "Standard Bearer": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_bearer_icon.png?raw=true",
-    "Skill-DP": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_pioneer_icon.png?raw=true",
-    "Pioneer": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_pioneer_icon.png?raw=true",
-    "Summoner": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_tactician_icon.png?raw=true",
-    "Tactician": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_tactician_icon.png?raw=true"
+    "name": "Vanguard",
+    "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/classes/class_vanguard.png?raw=true",
+    "_vanguard": [
+      {
+        "name": "DP-On-Kill",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_charger_icon.png?raw=true"
+      },
+      {
+        "name": "Charger",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_charger_icon.png?raw=true"
+      },
+      {
+        "name": "Flagbearer",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_bearer_icon.png?raw=true"
+      },
+      {
+        "name": "Standard Bearer",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_bearer_icon.png?raw=true"
+      },
+      {
+        "name": "Skill-DP",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_pioneer_icon.png?raw=true"
+      },
+      {
+        "name": "Pioneer",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_pioneer_icon.png?raw=true"
+      },
+      {
+        "name": "Summoner",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_tactician_icon.png?raw=true"
+      },
+      {
+        "name": "Tactician",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/ui/subclass/sub_tactician_icon.png?raw=true"
+      }
+    ]
   }
 ]
