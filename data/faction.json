@@ -1,170 +1,212 @@
 [
   {
-    "name": "aegir",
+    "_id": "aegir",
+    "name": "Aegir",
     "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_egir.png?raw=true"
   },
   {
-    "name": "abyssal_hunters",
+    "_id": "abyssal_hunters",
+    "name": "Abyssal Hunters",
     "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_abyssal.png?raw=true"
   },
   {
-    "name": "babel",
+    "_id": "babel",
+    "name": "Babel",
     "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_babel.png?raw=true"
   },
   {
-    "name": "bolivar",
+    "_id": "bolivar",
+    "name": "Bolivar",
     "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_bolivar.png?raw=true"
   },
   {
-    "name": "columbia",
+    "_id": "columbia",
+    "name": "Columbia",
     "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_columbia.png?raw=true"
   },
   {
-    "name": "blacksteel",
+    "_id": "blacksteel",
+    "name": "Blacksteel",
     "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_blacksteel.png?raw=true"
   },
   {
-    "name": "rhine_lab",
+    "_id": "rhine_lab",
+    "name": "Rhine Lab",
     "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_rhine.png?raw=true"
   },
   {
-    "name": "higashi",
+    "_id": "higashi",
+    "name": "Higashi",
     "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_higashi.png?raw=true"
   },
   {
-    "name": "iberia",
+    "_id": "iberia",
+    "name": "Iberia",
     "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_iberia.png?raw=true"
   },
   {
-    "name": "kazimierz",
+    "_id": "kazimierz",
+    "name": "Kazimierz",
     "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_kazimierz.png?raw=true"
   },
   {
-    "name": "pinus_sylvestris",
+    "_id": "pinus_sylvestris",
+    "name": "Pinus Sylvestris",
     "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_pinus.png?raw=true"
   },
   {
-    "name": "kjerag",
+    "_id": "kjerag",
+    "name": "Kjerag",
     "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_kjerag.png?raw=true"
   },
   {
-    "name": "karlan",
+    "_id": "karlan",
+    "name": "Karlan",
     "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_karlan.png?raw=true"
   },
   {
-    "name": "laterano",
+    "_id": "laterano",
+    "name": "Laterano",
     "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_laterano.png?raw=true"
   },
   {
-    "name": "leithania",
+    "_id": "leithania",
+    "name": "Leithania",
     "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_leithanien.png?raw=true"
   },
   {
-    "name": "lungmen",
+    "_id": "lungmen",
+    "name": "Lungmen",
     "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_lungmen.png?raw=true"
   },
   {
-    "name": "lees_detective_agency",
+    "_id": "lees_detective_agency",
+    "name": "Lee's Detective Agency",
     "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_lee.png?raw=true"
   },
   {
-    "name": "lungmen_guard_department",
+    "_id": "lungmen_guard_department",
+    "name": "Lungmen Guard Department",
     "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_lgd.png?raw=true"
   },
   {
-    "name": "penguin_logistics",
+    "_id": "penguin_logistics",
+    "name": "Penguin Logistics",
     "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_penguin.png?raw=true"
   },
   {
-    "name": "minos",
+    "_id": "minos",
+    "name": "Minos",
     "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_minos.png?raw=true"
   },
   {
-    "name": "rhodes_island",
+    "_id": "rhodes_island",
+    "name": "Rhodes Island",
     "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_rhodes.png?raw=true"
   },
   {
-    "name": "elite_op",
+    "_id": "elite_op",
+    "name": "Elite Op",
     "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_elite.png?raw=true"
   },
   {
-    "name": "followers",
+    "_id": "followers",
+    "name": "Followers",
     "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_followers.png?raw=true"
   },
   {
-    "name": "op_a4",
+    "_id": "op_a4",
+    "name": "Operator Action 4",
     "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_action4.png?raw=true"
   },
   {
-    "name": "op_reserve_a1",
+    "_id": "op_reserve_a1",
+    "name": "Operator Reserve A1",
     "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_reserve1.png?raw=true"
   },
   {
-    "name": "op_reserve_a4",
+    "_id": "op_reserve_a4",
+    "name": "Operator Reserve A4",
     "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_reserve4.png?raw=true"
   },
   {
-    "name": "op_reserve_a6",
+    "_id": "op_reserve_a6",
+    "name": "Operator Reserve A6",
     "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_reserve6.png?raw=true"
   },
   {
-    "name": "sweep",
+    "_id": "sweep",
+    "name": "S.W.E.E.P",
     "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_sweep.png?raw=true"
   },
   {
-    "name": "rim_billiton",
+    "_id": "rim_billiton",
+    "name": "Rim Billiton",
     "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_rim.png?raw=true"
   },
   {
-    "name": "sami",
+    "_id": "sami",
+    "name": "Sami",
     "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_sami.png?raw=true"
   },
   {
-    "name": "sargon",
+    "_id": "sargon",
+    "name": "Sargon",
     "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_sargon.png?raw=true"
   },
   {
-    "name": "siesta",
+    "_id": "siesta",
+    "name": "Siesta",
     "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_siesta.png?raw=true"
   },
   {
-    "name": "siracusa",
+    "_id": "siracusa",
+    "name": "Siracusa",
     "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_siracusa.png?raw=true"
   },
   {
-    "name": "chiaves_gang",
+    "_id": "chiaves_gang",
+    "name": "Chiaves Gang",
     "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_chiave.png?raw=true"
   },
   {
-    "name": "team_rainbow",
+    "_id": "team_rainbow",
+    "name": "Team Rainbow",
     "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_rainbow.png?raw=true"
   },
   {
-    "name": "ursus",
+    "_id": "ursus",
+    "name": "Ursus",
     "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_ursus.png?raw=true"
   },
   {
-    "name": "ursus_student_selfgoverning_group",
+    "_id": "ursus_student_selfgoverning_group",
+    "name": "Ursus Student Self-Governing Group",
     "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_student.png?raw=true"
   },
   {
-    "name": "victoria",
+    "_id": "victoria",
+    "name": "Victoria",
     "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_victoria.png?raw=true"
   },
   {
-    "name": "iconImage",
-    "glasgow": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_glasgow.png?raw=true"
+    "_id": "glasgow",
+    "name": "Glasgow",
+    "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_glasgow.png?raw=true"
   },
   {
-    "name": "yan",
+    "_id": "yan",
+    "name": "Yan",
     "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_yan.png?raw=true"
   },
   {
-    "name": "sui",
+    "_id": "sui",
+    "name": "Sui",
     "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/factions/logo_sui.png?raw=true"
   },
   {
-    "name": "logo_none",
+    "_id": "none",
+    "name": "None",
     "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/factions/none.png?raw=true"
   }
 ]
