@@ -1,105 +1,5 @@
 [
   {
-    "_id": "Cantablle",
-    "name": "Cantablle",
-    "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_497_ctable.png?raw=true"
-  },
-  {
-    "_id": "Qanipalaat",
-    "name": "Qanipalaat",
-    "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_466_qanik.png?raw=true"
-  },
-  {
-    "_id": "Vigil",
-    "name": "Vigil",
-    "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_427_vigil.png?raw=true"
-  },
-  {
-    "_id": "Stainless",
-    "name": "Stainless",
-    "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_4072_ironmn.png?raw=true"
-  },
-  {
-    "_id": "Paprika",
-    "name": "Paprika",
-    "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_4071_peper.png?raw=true"
-  },
-  {
-    "_id": "Luo-Xiaohei",
-    "name": "Luo Xiaohei",
-    "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_4067_lolxh.png?raw=true"
-  },
-  {
-    "_id": "Lunacub",
-    "name": "Lunacub",
-    "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_4014_lunacu.png?raw=true"
-  },
-  {
-    "_id": "Penance",
-    "name": "Penance",
-    "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_4065_judge.png?raw=true"
-  },
-  {
-    "_id": "Mlynar",
-    "name": "Mlynar",
-    "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_4064_mlynar.png?raw=true"
-  },
-  {
-    "_id": "Quartz",
-    "name": "Quartz",
-    "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_4063_quartz.png?raw=true"
-  },
-  {
-    "_id": "Totter",
-    "name": "Totter",
-    "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_4062_totter.png?raw=true"
-  },
-  {
-    "_id": "Pozyomka",
-    "name": "Pozyomka",
-    "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_4055_bgsnow.png?raw=true"
-  },
-  {
-    "_id": "Minimalist",
-    "name": "Minimalist",
-    "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_4054_malist.png?raw=true"
-  },
-  {
-    "_id": "Dorothy",
-    "name": "Dorothy",
-    "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_4048_doroth.png?raw=true"
-  },
-  {
-    "_id": "Proviso",
-    "name": "Proviso",
-    "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_4032_provs.png?raw=true"
-  },
-  {
-    "_id": "Dagda",
-    "name": "Dagda",
-    "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_157_dagda.png?raw=true"
-  },
-  {
-    "_id": "Gavial-the-Invincible",
-    "name": "Gavial the Invincible",
-    "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_1026_gvial2.png?raw=true"
-  },
-  {
-    "_id": "Greyy-the-Lightbearer",
-    "name": "Greyy the Lightbearer",
-    "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_1027_greyy2.png?raw=true"
-  },
-  {
-    "_id": "Texas-the-Omertosa",
-    "name": "Texas the mertosa",
-    "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_1028_texas2.png?raw=true"
-  },
-  {
-    "_id": "Ebenholz",
-    "name": "Ebenholz",
-    "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_4046_ebnhlz.png?raw=true"
-  },
-  {
     "_id": "Lumen",
     "name": "Lumen",
     "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_4042_lumen.png?raw=true"
@@ -1338,5 +1238,109 @@
     "_id": "Lancet-2",
     "name": "Lancet-2",
     "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_285_medic2.png?raw=true"
+  },
+  {
+    "cn_only": [
+      {
+        "_id": "Cantablle",
+        "name": "Cantablle",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_497_ctable.png?raw=true"
+      },
+      {
+        "_id": "Qanipalaat",
+        "name": "Qanipalaat",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_466_qanik.png?raw=true"
+      },
+      {
+        "_id": "Vigil",
+        "name": "Vigil",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_427_vigil.png?raw=true"
+      },
+      {
+        "_id": "Stainless",
+        "name": "Stainless",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_4072_ironmn.png?raw=true"
+      },
+      {
+        "_id": "Paprika",
+        "name": "Paprika",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_4071_peper.png?raw=true"
+      },
+      {
+        "_id": "Luo-Xiaohei",
+        "name": "Luo Xiaohei",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_4067_lolxh.png?raw=true"
+      },
+      {
+        "_id": "Lunacub",
+        "name": "Lunacub",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_4014_lunacu.png?raw=true"
+      },
+      {
+        "_id": "Penance",
+        "name": "Penance",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_4065_judge.png?raw=true"
+      },
+      {
+        "_id": "Mlynar",
+        "name": "Mlynar",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_4064_mlynar.png?raw=true"
+      },
+      {
+        "_id": "Quartz",
+        "name": "Quartz",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_4063_quartz.png?raw=true"
+      },
+      {
+        "_id": "Totter",
+        "name": "Totter",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_4062_totter.png?raw=true"
+      },
+      {
+        "_id": "Pozyomka",
+        "name": "Pozyomka",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_4055_bgsnow.png?raw=true"
+      },
+      {
+        "_id": "Minimalist",
+        "name": "Minimalist",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_4054_malist.png?raw=true"
+      },
+      {
+        "_id": "Dorothy",
+        "name": "Dorothy",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_4048_doroth.png?raw=true"
+      },
+      {
+        "_id": "Proviso",
+        "name": "Proviso",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_4032_provs.png?raw=true"
+      },
+      {
+        "_id": "Dagda",
+        "name": "Dagda",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_157_dagda.png?raw=true"
+      },
+      {
+        "_id": "Gavial-the-Invincible",
+        "name": "Gavial the Invincible",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_1026_gvial2.png?raw=true"
+      },
+      {
+        "_id": "Greyy-the-Lightbearer",
+        "name": "Greyy the Lightbearer",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_1027_greyy2.png?raw=true"
+      },
+      {
+        "_id": "Texas-the-Omertosa",
+        "name": "Texas the Omertosa",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_1028_texas2.png?raw=true"
+      },
+      {
+        "_id": "Ebenholz",
+        "name": "Ebenholz",
+        "iconImage": "https://github.com/Aceship/Arknight-Images/blob/main/avatars/char_4046_ebnhlz.png?raw=true"
+      }
+    ]
   }
 ]
